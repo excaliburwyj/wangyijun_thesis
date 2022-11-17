@@ -13,5 +13,5 @@
 *.lot
 !./example.pdf
 out/
-
+*.bkp
 .DS_Store
